@@ -1,7 +1,12 @@
 ### KUŘE
 
-<img align="centrer" alt="chicken" width="400" src="https://i.gifer.com/6pB.gif" />
+<img align="centrer" alt="chicken" width="400px" src="https://gifer.com/embed/YkB8" >
 
+<img align="centrer" alt="chicken" width="400px" href="https://i.gifer.com/YkB8.gif" >
+
+<iframe src="https://gifer.com/embed/YkB8" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe>
+
+<p><a href="https://gifer.com">via GIFER</a></p>
 <!--
 **MartinKrutil/MartinKrutil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
