@@ -1,3 +1,1 @@
-### KUŘE
-
-<img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
+<img width="800" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
