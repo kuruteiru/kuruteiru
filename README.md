@@ -1,6 +1,6 @@
 <div style="display: inline-block">
-  <img height="400" width="520" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
-  <img height="400" width="320" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
+  <img height="400" width="58%" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
+  <img height="400" width="40%" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
 </div>
 
 <div style="display: inline-block" width="100%">
