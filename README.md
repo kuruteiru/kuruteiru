@@ -3,7 +3,7 @@
   <img height="400" width="320" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
 </div>
 
-<div style="display: inline-block">
+<div style="display: inline-block" width="100%">
   <img height="400" width="30%" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
   <img height="400" width="70%" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
 </div>
