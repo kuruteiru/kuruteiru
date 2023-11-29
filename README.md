@@ -1,4 +1,6 @@
-### Hi there 👋
+### KUŘE
+
+<img align="centrer" alt="chicken" width="400" src="https://gifer.com/en/6pB"/>
 
 <!--
 **MartinKrutil/MartinKrutil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
