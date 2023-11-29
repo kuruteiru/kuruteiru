@@ -1,15 +1,12 @@
 <h1 align="center">Nžuď!</h1>
+
 <div>
-  <img alt="toilet" align="right" src="https://www.animatedimages.org/data/media/685/animated-toilet-image-0020.gif">
-  <p align="left">Zachod =></p>
+  <img alt="toilet" width="19.5%" src="https://www.animatedimages.org/data/media/685/animated-toilet-image-0020.gif">
+  <img alt="toilet" width="19.5%" src="https://www.animatedimages.org/data/media/685/animated-toilet-image-0020.gif">
+  <img alt="toilet" width="19.5%" src="https://www.animatedimages.org/data/media/685/animated-toilet-image-0020.gif">
+  <img alt="toilet" width="19.5%" src="https://www.animatedimages.org/data/media/685/animated-toilet-image-0020.gif">
+  <img alt="toilet" width="19.5%" src="https://www.animatedimages.org/data/media/685/animated-toilet-image-0020.gif">
 </div>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
 <hr>
 
 <div>
