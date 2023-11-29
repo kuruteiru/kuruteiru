@@ -1,9 +1,9 @@
-<div style="display: inline-block">
+<div>
   <img width="58%" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
   <img width="40%" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
 </div>
 
-<div style="display: inline-block" width="100%">
+<div>
   <img width="40%" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
   <img width="58%" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
 </div>
