@@ -6,8 +6,8 @@
 </div>
 
 <div style="display: inline-block">
-  <img height="500" width="400" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
-  <img height="500" width="600" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
+  <img height="500" width="425" src="https://media.tenor.com/T7fPVevMCZkAAAAC/ken-carson-opium.gif">
+  <img height="500" width="625" src="https://media.tenor.com/cpBTqH3VCFoAAAAC/ken-carson-opium.gif">
 </div>
 
 <div style="display: inline-block">
